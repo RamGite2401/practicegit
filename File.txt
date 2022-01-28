@@ -1,9 +1,4 @@
 this is first line
 testing commit -am
 
-<<<<<<< HEAD
-testing for diff
-this is master branch
-=======
-testing for diff.....
->>>>>>> bug123
+this is master
