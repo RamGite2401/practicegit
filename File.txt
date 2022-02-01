@@ -1,4 +1,0 @@
-this is first line
-testing commit -am
-
-this is master
